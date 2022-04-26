@@ -9,7 +9,7 @@
 body {
     font-family: Ubuntu, sans-serif;
     font-weight: 200;
-    color: #04942d;
+    color: #0800ff;
 }
 
 /* headings and logos */
@@ -24,4 +24,29 @@ h1, h2 {
 #logo {
     float: right;
     font-size: 250%;
+}
+
+/* Nav links*/
+#menu {
+    font-size: 110%;
+    letter-spacing: 2px;
+}
+#menu, #logo{
+    line-height: 80px;
+}
+
+#menu li{
+    float: left;
+    list-style-type: none;
+    margin-left: 30px;
+}
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+#menu a:hover {
+    border-bottom: 1px solid #0800ff;
+}
+.active {
+    border-bottom: 1px solid #0800ff;
 }
