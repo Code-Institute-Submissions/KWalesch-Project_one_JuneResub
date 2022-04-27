@@ -15,7 +15,7 @@ body {
 /* headings and logos */
 
 h1, h2 {
-    font-family: Roboto, sans-serif;
+    font-family: Ubuntu, sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
     color: #086631;
@@ -86,4 +86,25 @@ h1, h2 {
     left: 45px;
 
     position: absolute;
+}
+/* Under hero image Text*/
+.islands {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    margin: 100px;
+}
+.islands h1 {
+    font-size: 38px;
+    font-weight: 650;
+}
+/* 3 island photos and headings*/
+.row{
+    margin-top: 8%;
+    display: flex;
+    justify-content: space-between;
+}
+h3 {
+    text-align: center;
+    margin: 10px 0;
 }
