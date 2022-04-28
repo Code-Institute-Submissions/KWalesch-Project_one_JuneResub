@@ -28,6 +28,11 @@ h1, h2 {
 }
 
 /* Nav links*/
+nav {
+    height: 80px;
+    background: rgba(255, 123, 33, 0.8);
+}
+
 #menu {
     font-size: 110%;
     letter-spacing: 2px;
@@ -46,10 +51,10 @@ h1, h2 {
     color: inherit;
 }
 #menu a:hover {
-    border-bottom: 1px solid rgba(255, 123, 33, 0.8);
+    border-bottom: 1px solid white;
 }
 .active {
-    border-bottom: 1px solid rgba(255, 123, 33, 0.8);
+    border-bottom: 1px solid white;
 }
 
 /*hero image*/
