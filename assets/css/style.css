@@ -11,6 +11,9 @@ body {
     font-weight: 200;
     color: #086631
 }
+div {
+    display: block;
+}
 
 /* headings and logos */
 
@@ -141,4 +144,18 @@ footer{
     height: 100px;
     bottom: 0%;
     background-color: #086631;
+
+}
+
+.social{
+    text-align: center;
+    padding: 5px;
+}
+.social a {
+    color:white;
+    margin: 10px;
+    font-style: normal;
+    size: 300px;
+    padding: 10px;;
+    text-align: center;
 }
