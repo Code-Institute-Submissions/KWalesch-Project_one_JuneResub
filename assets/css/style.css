@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     border: none;
+    box-sizing: border-box;
 }
 
 body {
@@ -178,4 +179,9 @@ footer{
       padding: 20px;
       margin: 10px;
       font-size: 200%;
+  }
+
+  .sign-up-form{
+      width: 300px;
+      box-shadow: 0 0 4px 0 rgba(255, 123, 33, 0.8);
   }
