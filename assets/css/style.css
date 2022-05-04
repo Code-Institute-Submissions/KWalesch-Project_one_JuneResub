@@ -206,3 +206,9 @@ footer{
       border: 1px solid #086631;
       outline: none;
   }
+
+  .sign-up-body {
+      background-image:url(../images/aran1.jpg);
+      background-size: cover;
+      background-position: center;
+  }
