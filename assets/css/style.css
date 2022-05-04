@@ -207,6 +207,22 @@ footer{
       outline: none;
   }
 
+  button {
+      color:black;
+      width: 100%;
+      padding: 10px;
+      border-radius: 20px;
+      font-size: 15px;
+      margin: 10px 0;
+      cursor: pointer;
+      border: none;
+      outline: none;
+  }
+
+  .signup-btn {
+      background-color:beige;
+  }
+
   .sign-up-body {
       background-image:url(../images/aran1.jpg);
       background-size: cover;
