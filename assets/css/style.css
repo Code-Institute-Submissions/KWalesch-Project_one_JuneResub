@@ -156,7 +156,6 @@ footer{
     color:white;
     margin: 10px;
     font-style: normal;
-    size: 300px;
     padding: 10px;;
     text-align: center;
 }
@@ -167,7 +166,7 @@ footer{
     padding-bottom: 56.25%; 
     height: 0;
   }
-  .iframe-container iframe{
+  .iframe-container embed{
     position: absolute;
     top:0;
     left: 0;
