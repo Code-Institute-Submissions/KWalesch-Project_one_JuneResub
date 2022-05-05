@@ -20,3 +20,5 @@ Keep up to date with any news and/or events on the Islands.
 
 ### Design
 + #### Color Scheme
+The 2 main colors I used on this website are white and a shade of green #086631. I chose a very simple color scheme that was representative of colors associated with Islands and nature.I also chose to keep the color scheme simple to keep everything looking uniform and clearly visible.
+The colors used have passed the color contrast test which I will link [Here](https://webaim.org/resources/contrastchecker/?fcolor=FFFFFF&bcolor=086631)
