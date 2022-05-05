@@ -14,3 +14,6 @@ The website should give users information about the Islands. Also, the website s
 
 ## User Experience
 **As a first-time visitor, I want to...** 
+Find the best way to contact the company with any questions I might have.
+Find the social media links so that I can join and interact with other customers.
+Keep up to date with any menu changes or new locations opening.
