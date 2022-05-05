@@ -58,9 +58,19 @@ nav {
 #menu a:hover {
     border-bottom: 1px solid white;
 }
+@media(max-width:700px) {
+    #menu li a{
+    flex-direction: column;
+    float: left;
+    color: black;
+    
+    }
+    
+    }
 .active {
     border-bottom: 1px solid white;
 }
+
 
 /*hero image*/
 #hero-image {
