@@ -60,15 +60,48 @@ The colors used have passed the color contrast test which I will link [Here](htt
 +   All relevant information pertaining to testing can be found below   
 
 ### HTML validation
-+ The HTML was validated using the W3 validator and came back with no errors or warnings, [View the results here.](https://validator.w3.org/nu/#textarea) Or check out the screenshots below.
++ The HTML was validated using the W3 validator and came back with no errors or warnings, check out the screenshots below for the results.
 
-![Responsiveness screenshot](assets/images/html%20val%201.png)
+![HTML screenshot](assets/images/html%20val%201.png)
 
-![Responsiveness screenshot](assets/images/html%20val%202.png)
+![HTML screenshot](assets/images/html%20val%202.png)
 
-![Responsiveness screenshot](assets/images/html%20val%203.png)
+![HTML screenshot](assets/images/html%20val%203.png)
 
 ### CSS validation
 + The CSS was checked using the W3C CSS Validator and also came back with no errors as can be seen in the screenshot below.
 
-![Responsiveness screenshot](assets/images/css%20val.png)
+![CSS validation screenshot](assets/images/css%20val.png)
+
+
+## Deployment
+* The project is deployed following the"Love Running practice Project.
++ The deployment is made via Git pod and Git hub. Every big step was committed and pushed through Git pod terminal.
+
+Here are the steps taken:
++ Log-in Github
++ Click on "Your Repositories" and select the one to be deployed
++ Click on "Setting" at top of the page
++ Click on "Pages" on the left side
++ Change Source by selecting Main Branch and click on "Save"
++ The website is deployed and a link to the live version is generated.
+[here](https://kwalesch.github.io/Project_one/) is the live link.
+
+## Credits
+
++ My mentor Spencer Barriball for his continued assistance throughout the project.
+
++ [W3schools](https://www.w3schools.com/) was used for inspiration and fixing issues throughout the project.
+
++ Fellow students on slack provided useful information and links.
+
++ The Youtube videos are taken from[CR's Video Vaults](https://www.youtube.com/c/conorryan79CRsVideoVaults) and [New Adventure](https://www.youtube.com/c/ScoutSlothTravel)
+
+## Content
+
++ The Content of this website is fictional and is created for the purpose of the project only.
+
+## Media 
+ + Images used have been taken from Google by filtering the licensed ones to avoid copyright issues.
+ 
+ + The videos have been taken from youtube.
