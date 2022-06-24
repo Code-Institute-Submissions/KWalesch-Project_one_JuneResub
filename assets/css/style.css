@@ -201,6 +201,12 @@ footer{
       margin: 10px;
       font-size: 200%;
   }
+  #about-heading-one{
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+    font-size: 200%;
+}
 
   .sign-up-form{
       width: 300px;
